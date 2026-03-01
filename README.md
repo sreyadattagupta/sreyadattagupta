@@ -16,8 +16,7 @@
 ## Github stats
 
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyadattagupta&show_icons=true&theme=radical)
- <br>
+
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=sreyadattagupta&theme=radical&background=000000" align="left" /></div> 
 <br>
 <!-- <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyacasm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>   -->
